@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ワンナイト",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-01-04T05:54:13.107460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワンナイト・アルカホリック",
+      "artist": "ハヌマーン",
+      "has_synced": true,
+      "path": "select/01_ワンナイト・アルカホリック_ハヌマーン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワンナイト",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_ワンナイト_ヤングスキニー.txt"
+    }
+  ]
+}
